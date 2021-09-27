@@ -116,7 +116,7 @@ small{
 
     form{
       width: 21rem;
-        height: 35rem;
+      min-height: 35rem;
     }
     
 }
